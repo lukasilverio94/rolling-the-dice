@@ -27,6 +27,19 @@ h2 {
   color: #4bc3b5;
 }
 
+button {
+  width: 15%;
+  min-height: 2rem;
+  background-color: #fff;
+  color: #1c2c54;
+  font-weight: bold;
+  font-size: 1rem;
+  text-transform: uppercase;
+}
+
+.button-play {
+  text-align: center;
+}
 img {
   width: 80%;
 }
